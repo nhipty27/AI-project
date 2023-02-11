@@ -1,0 +1,32 @@
+13
+A OR -I OR N OR -P
+A OR H OR I OR N
+A OR N OR -P
+A OR H OR -P
+-I OR N
+A OR -H OR N
+-H OR -I
+N
+H
+A
+I OR N OR P
+H OR N OR P
+H OR I OR P
+16
+A OR H OR N
+-H OR N OR P
+-I OR N OR P
+A OR N
+A OR -H
+A OR I OR N OR P
+A OR I OR N
+A OR -P
+{}
+N OR P
+I OR P
+H OR P
+A OR -I OR -P
+A OR H OR I
+A OR H OR -I OR N
+A OR N OR P
+YES

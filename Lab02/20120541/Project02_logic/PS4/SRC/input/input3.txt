@@ -1,0 +1,7 @@
+H OR I OR N
+5
+A OR H OR N OR -P
+-H OR -I OR N
+H OR N
+A OR I
+H OR I OR N OR P
